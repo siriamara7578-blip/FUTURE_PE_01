@@ -1,0 +1,14 @@
+Write a services page for a coaching institute website.
+
+Create clear and persuasive descriptions.
+
+Include:
+- List of services
+- What students learn
+- How it improves marks
+- Why this institute is better than others
+
+Make the content parent-friendly and easy to understand.
+
+Business Information:
+[PASTE BUSINESS DETAILS]
